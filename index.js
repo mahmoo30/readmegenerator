@@ -90,7 +90,7 @@ inquirer
         {
             type: "input",
             name: "usage",
-            message: "What does the user need to know about using to the repo??"
+            message: "What does the user need to know about using the repo?"
         },
         {
             type: "input",

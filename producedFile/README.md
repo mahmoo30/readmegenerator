@@ -1,7 +1,7 @@
-# qwer ![badge](https://img.shields.io/badge/license-Apache-brightgreen)
+# TEST PROJECT ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## Description
-qwerty
+This is a test run for the README generator.
 
 ## 🔍 Table of Contents
 - [Description](#description)
@@ -14,23 +14,23 @@ qwerty
 
 ## 💾 Installation
 To install necessary dependencies, run the following command:
-- qwe
+- npm i inquirer@8.2.4
 
 ## Usage
-qw
+This is only used for a test run.
 
 ## License
-![badge](https://img.shields.io/badge/license-Apache-brightgreen): This application is covered by the Apache license. 
+![badge](https://img.shields.io/badge/license-MIT-brightgreen): This application is covered by the MIT license. 
 
 ## Contributing
-qw
+Fork the repo, and make a pull request for the changes.
 
 ## Tests
 To run tests, run the following command:
-- qwe
+- node index.js
 
 ## ✋ Questions
-If you have any questions about the repo, open an issue or contact me directly at qwe. <br />
-You can find more of my work on GitHub: [qw](https://github.com/qw)
+If you have any questions about the repo, open an issue or contact me directly at wasif.96@gmail.com. <br />
+You can find more of my work on GitHub: [mahmoo30](https://github.com/mahmoo30)
 
 #### This README was generated using a [README-generator](https://github.com/mahmoo30/readmegenerator) 🔥🔥🔥
