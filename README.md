@@ -1,4 +1,4 @@
-# agagrg ![badge](https://img.shields.io/badge/license-Apache-brightgreen)
+# agagrg ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## Description
 arhjarhjaor
@@ -20,7 +20,7 @@ To install necessary dependencies, run the following command:
 gnode
 
 ## License
-![badge](https://img.shields.io/badge/license-Apache-brightgreen): This application is covered by the Apache license. 
+![badge](https://img.shields.io/badge/license-MIT-brightgreen): This application is covered by the Apache license. 
 
 ## Contributing
 node
