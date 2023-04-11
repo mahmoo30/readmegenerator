@@ -17,7 +17,7 @@ To install necessary dependencies (inquirer), run the following command:
 - npm i inquirer@8.2.4
 
 ## Usage
-You can quickly and easily generate a README file by using a command-line application to generate one. This allows the project creator to devote more time working on the project.
+You can quickly and easily generate a README file by using a command-line application to generate one. This allows the project creator to devote more time working on the project. Generated file can be accessed in the producedFile folder.
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen): This application is covered by the MIT license. 
